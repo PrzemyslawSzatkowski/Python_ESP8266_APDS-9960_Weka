@@ -2,7 +2,7 @@
 
 Projekt wykonany w ramach pracy inżynierskiej.
 
-## /ESP
+## /ESP8266
 
 Pliki z mikrokontrolera wykonujące kod napisany w MicroPython z wykorzystaniem biblioteki https://github.com/rlangoy/uPy_APDS9960.
 

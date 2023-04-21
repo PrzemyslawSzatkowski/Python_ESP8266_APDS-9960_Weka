@@ -4,7 +4,7 @@ Projekt wykonany w ramach pracy inżynierskiej.
 
 ## /ESP
 
-Pliki z mikrokontrolera wykonujące kod napisany w MicroPython.
+Pliki z mikrokontrolera wykonujące kod napisany w MicroPython z wykorzystaniem biblioteki https://github.com/rlangoy/uPy_APDS9960.
 
 ## /Python
 
